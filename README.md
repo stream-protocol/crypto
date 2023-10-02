@@ -135,7 +135,3 @@ The `loadStreamPay.setLoadParameters` function is only available when importing
 ## StreamPay Crypto JS SDK Documentation
 
 - [StreamPay Crypto JS SDK Docs](https://docs.streampayments.org/crypto)
-# crypto
-# crypto
-# crypto
-# crypto
